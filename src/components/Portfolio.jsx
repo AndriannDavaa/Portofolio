@@ -106,7 +106,7 @@ export default function Portfolio() {
       tags: ["HTML5", "Tailwind CSS", "Vite.js", "React.js"],
       gradient: "from-red-500 to-pink-500",
       features: ["Portfolio", "Website", "Static Website"],
-      link: "https://my-portfolio-gd3c.vercel.app/"
+      link: "https://github.com/AndriannDavaa/Portofolio.git"
     },
   ];
 
